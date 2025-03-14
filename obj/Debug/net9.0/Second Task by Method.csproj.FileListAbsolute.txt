@@ -1,0 +1,14 @@
+C:\Users\afaye\source\repos\Second Task by Method\Second Task by Method\bin\Debug\net9.0\Second Task by Method.exe
+C:\Users\afaye\source\repos\Second Task by Method\Second Task by Method\bin\Debug\net9.0\Second Task by Method.deps.json
+C:\Users\afaye\source\repos\Second Task by Method\Second Task by Method\bin\Debug\net9.0\Second Task by Method.runtimeconfig.json
+C:\Users\afaye\source\repos\Second Task by Method\Second Task by Method\bin\Debug\net9.0\Second Task by Method.dll
+C:\Users\afaye\source\repos\Second Task by Method\Second Task by Method\bin\Debug\net9.0\Second Task by Method.pdb
+C:\Users\afaye\source\repos\Second Task by Method\Second Task by Method\obj\Debug\net9.0\Second Task by Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afaye\source\repos\Second Task by Method\Second Task by Method\obj\Debug\net9.0\Second Task by Method.AssemblyInfoInputs.cache
+C:\Users\afaye\source\repos\Second Task by Method\Second Task by Method\obj\Debug\net9.0\Second Task by Method.AssemblyInfo.cs
+C:\Users\afaye\source\repos\Second Task by Method\Second Task by Method\obj\Debug\net9.0\Second Task by Method.csproj.CoreCompileInputs.cache
+C:\Users\afaye\source\repos\Second Task by Method\Second Task by Method\obj\Debug\net9.0\Second Task by Method.dll
+C:\Users\afaye\source\repos\Second Task by Method\Second Task by Method\obj\Debug\net9.0\refint\Second Task by Method.dll
+C:\Users\afaye\source\repos\Second Task by Method\Second Task by Method\obj\Debug\net9.0\Second Task by Method.pdb
+C:\Users\afaye\source\repos\Second Task by Method\Second Task by Method\obj\Debug\net9.0\Second Task by Method.genruntimeconfig.cache
+C:\Users\afaye\source\repos\Second Task by Method\Second Task by Method\obj\Debug\net9.0\ref\Second Task by Method.dll
