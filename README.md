@@ -49,10 +49,7 @@ namespace Task
                 case 'P':
                 case 'p':
                     ConditionalStatement(list);
-                    Console.Write("[ ");
                     PrintNumbers(list);
-                    Console.Write(" ]");
-
                     break;
                 case 'M':
                 case 'm':
@@ -76,19 +73,13 @@ namespace Task
                 case 'g':
                     ConditionalStatement(list);
                     list = SortNumberASC(list);
-                    Console.Write("[ ");
-                    for (int k = 0; k < list.Count; k++)
-                        Console.Write($" {list[k]} ");
-                    Console.Write(" ]");
+                    PrintNumbers(list);
                     break;
                 case 'j':
                 case 'J':
                     ConditionalStatement(list);
                     list = SortNumberDESC(list);
-                    Console.Write("[ ");
-                    for (int k = 0; k < list.Count; k++)
-                        Console.Write($" {list[k]} ");
-                    Console.Write(" ]");
+                    PrintNumbers(list);
                     break;
                 case 'q':
                 case 'Q':
@@ -121,9 +112,10 @@ namespace Task
         }
         static void PrintNumbers(List<int> list)
         {
-            if (list.Count > 0)
-                for (int j = 0; j < list.Count; j++)
-                    Console.Write($" {list[j]} ");
+            Console.Write("[ ");
+            for (int k = 0; k < list.Count; k++)
+                Console.Write($" {list[k]} ");
+            Console.Write(" ]");
         }
         static int DisplayMean(List<int> list)
         {
